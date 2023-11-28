@@ -2,7 +2,7 @@ name: Build
 on:
   push:
     branches:
-      - master
+      - master 
 jobs:
         - name: Appknox GitHub action
           uses: appknox/appknox-github-action@1.0.0
